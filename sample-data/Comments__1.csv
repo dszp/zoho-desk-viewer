@@ -1,0 +1,17 @@
+Comment Id,Comment,Commented By,Is Public,Commented Time,Modified Time,Entity Id,Module Id
+id,comment,commentedBy,isPublic,commentedTime,modifiedTime,entityId,moduleId
+900000000000410001,Checked VPN logs - firewall keepalive was changed during weekend maintenance. Root cause confirmed.,900000000000110001,false,2024-01-09 14:00:00,2024-01-09 14:00:00,900000000000210001,
+900000000000410002,Scheduling maintenance window for tonight to fix firewall rules. Change request CR-2024-0108 approved.,900000000000110001,false,2024-01-10 10:00:00,2024-01-10 10:00:00,900000000000210001,
+900000000000410003,Inventory discrepancy traced to batch RCV-2024-0112-003. Three part numbers affected. Working with warehouse team.,900000000000110003,false,2024-01-14 15:00:00,2024-01-14 15:00:00,900000000000210003,
+900000000000410004,GPS gateway cellular modem antenna cable was loose. Reconnected by field tech. Monitoring for stability.,900000000000110001,false,2024-01-20 11:00:00,2024-01-20 11:00:00,900000000000210006,
+900000000000410005,Escalating to vendor - forklift tracking data gap recovery requires their support team involvement.,900000000000110001,false,2024-01-21 09:00:00,2024-01-21 09:00:00,900000000000210006,
+900000000000410006,Awaiting response from finance team to verify contract terms before proceeding with invoice correction.,900000000000110005,false,2024-01-22 10:00:00,2024-01-22 10:00:00,900000000000210005,
+900000000000410007,APNS certificate renewed. Push notifications for medication reminders restored. Monitoring delivery rates.,900000000000110004,false,2024-02-07 10:30:00,2024-02-07 10:30:00,900000000000210014,
+900000000000410008,Discussed with compliance team - need to optimize the report query before the audit deadline next week.,900000000000110001,false,2024-02-26 14:00:00,2024-02-26 14:00:00,900000000000210021,
+900000000000410009,Wire transfer approval routing rule was changed by batch update script. Restored correct two-level approval chain.,900000000000110003,false,2024-03-01 09:30:00,2024-03-01 09:30:00,900000000000210023,
+900000000000410010,Pulled list of 12 transfers that went through with single approval. Sent to compliance team for review.,900000000000110003,false,2024-03-02 10:00:00,2024-03-02 10:00:00,900000000000210023,
+900000000000410011,HL7 parser updated to handle new message format from reference lab. Reprocessing backlog of 47 results.,900000000000110004,false,2024-03-17 14:00:00,2024-03-17 14:00:00,900000000000210029,
+900000000000410012,Data cleanup script tested on production snapshot. Found 234 orphaned preference records to remove.,900000000000110001,false,2024-03-21 11:00:00,2024-03-21 11:00:00,900000000000210031,
+900000000000410013,Load balancer - app-03 had a memory leak in the session management module. Identified the problematic code path.,900000000000110003,false,2024-04-11 14:00:00,2024-04-11 14:00:00,900000000000210038,
+900000000000410014,Payroll batch - bank confirmed they changed their ACH processing cutoff from 5:00 PM to 4:30 PM effective March 1.,900000000000110004,false,2024-04-02 11:00:00,2024-04-02 11:00:00,900000000000210034,
+900000000000410015,Coordinating with telehealth vendor on adaptive bitrate settings. Scheduled call for next Tuesday.,900000000000110004,false,2024-05-05 10:00:00,2024-05-05 10:00:00,900000000000210044,

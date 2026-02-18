@@ -1,0 +1,7 @@
+Agent Id,First Name,Last Name,Email,Agent Status,Is Confirmed,Created Time,Role,Profile,Is Portal User,Integration Service
+id,firstName,lastName,email,status,isConfirmed,createdTime,role,profile,isPortalUser,integrationService
+900000000000110001,Sarah,Chen,sarah.chen@example.com,ACTIVE,true,2024-01-01 08:00:00,ADMIN,Administrator,false,
+900000000000110002,Marcus,Johnson,marcus.johnson@example.com,ACTIVE,true,2024-01-01 08:00:00,AGENT,Light Agent,false,
+900000000000110003,Priya,Patel,priya.patel@example.com,ACTIVE,true,2024-01-01 08:00:00,AGENT,Light Agent,false,
+900000000000110004,James,Wilson,james.wilson@example.com,ACTIVE,true,2024-01-01 08:00:00,AGENT,Light Agent,false,
+900000000000110005,Elena,Rodriguez,elena.rodriguez@example.com,ACTIVE,true,2024-01-01 08:00:00,AGENT,Light Agent,false,

@@ -1,0 +1,5 @@
+Department Id,Department Name,Is Enabled,Creator Id,Created Time,Modified Time,Department Status
+id,name,isEnabled,creatorId,createdTime,modifiedTime,status
+900000000000100001,IT Support,true,900000000000110001,2024-01-02 09:00:00,2024-01-02 09:00:00,VISIBLE
+900000000000100002,Customer Success,true,900000000000110001,2024-01-02 09:00:00,2024-01-02 09:00:00,VISIBLE
+900000000000100003,Billing,true,900000000000110001,2024-01-02 09:00:00,2024-01-02 09:00:00,VISIBLE
